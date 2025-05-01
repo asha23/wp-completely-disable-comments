@@ -3,5 +3,4 @@
   "description": "Completely disables comments in WordPress.",
   "type": "wordpress-plugin",
   "license": "GPL-2.0-or-later",
-  "autoload": false
 }
